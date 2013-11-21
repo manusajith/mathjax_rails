@@ -1,3 +1,5 @@
+####This gem has been merged with https://github.com/pmq20/mathjax-rails. Kindly follow the latter for updates.
+
 [![Gem Version](https://badge.fury.io/rb/mathjax_rails.png)](http://badge.fury.io/rb/mathjax_rails)
 # MathjaxRails
 
